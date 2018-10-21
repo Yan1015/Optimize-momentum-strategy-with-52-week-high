@@ -9,7 +9,7 @@ low, half-year high, and 2-year high and then measure their performance. Finally
 investment performance than several others.
 
 ## Data
-I downloaded the 505 stocks daily data in S&P 500 index from 2004 to 2016. All stock prices are adjusted for stock splits or stock dividends. And, the stock has at least one full year of daily price data.
+I downloaded the 505 stocks daily data in S&P 500 index from 2004 to 2016 from Bloomberg. All stock prices are adjusted for stock splits or stock dividends. And, the stock has at least one full year of daily price data.
 
 ## Methodology
 Then I ranked the eligible stocks based on the ratio of current stock price to each one of the five past reference prices: 52-week high price, 52-week median price, 52-week low price, half-year high price, and 2-year high price. 
